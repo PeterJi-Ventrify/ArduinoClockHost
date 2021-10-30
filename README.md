@@ -9,3 +9,4 @@ Upon starting the serial comm UI, the com ports should be automatically loaded i
 When com port and baudrate are set, press CONNECT to start sending time and date to Arduino, then Arduino will display date, day of the week and time on the LCD screen. 
 
 To remind myself to stand up every hour, the LCD screen flashes three times at O'clocks. Enjoy! 
+
