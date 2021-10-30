@@ -1,0 +1,10 @@
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\bin\Debug\Winform Demo.exe.config
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\bin\Debug\Winform Demo.exe
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\bin\Debug\Winform Demo.pdb
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform Demo.csproj.AssemblyReference.cache
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform_Demo.Properties.Resources.resources
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform Demo.csproj.GenerateResource.cache
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform Demo.csproj.CoreCompileInputs.cache
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform Demo.exe
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform Demo.pdb
+E:\C#\YouTube Tutorial\Winform Demo\Winform Demo\obj\Debug\Winform_Demo.Form1.resources
